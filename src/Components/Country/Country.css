@@ -1,0 +1,18 @@
+.country{
+    background-color: bisque;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+}
+
+.image {
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+p img {
+    width: 70px;
+
+}
